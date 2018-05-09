@@ -3,8 +3,5 @@ Git is free software distributed under the GPL.
 This txt file is created by liuqiang.
 Git has a mutable index called stage.
 Git tracks changes.
-<<<<<<< HEAD
 Creating a new branch is quick and simple.
-=======
-Creating a new branch is quick AND simple.
->>>>>>> feature1
+
